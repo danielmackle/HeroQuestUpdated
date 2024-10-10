@@ -1,0 +1,16 @@
+C:\Users\danma\Documents\Portfolio\CS Portfolio\HeroQuestUpdated\HeroQuestUpdated\bin\Debug\net8.0-windows\HeroQuestUpdated.exe
+C:\Users\danma\Documents\Portfolio\CS Portfolio\HeroQuestUpdated\HeroQuestUpdated\bin\Debug\net8.0-windows\HeroQuestUpdated.deps.json
+C:\Users\danma\Documents\Portfolio\CS Portfolio\HeroQuestUpdated\HeroQuestUpdated\bin\Debug\net8.0-windows\HeroQuestUpdated.runtimeconfig.json
+C:\Users\danma\Documents\Portfolio\CS Portfolio\HeroQuestUpdated\HeroQuestUpdated\bin\Debug\net8.0-windows\HeroQuestUpdated.dll
+C:\Users\danma\Documents\Portfolio\CS Portfolio\HeroQuestUpdated\HeroQuestUpdated\bin\Debug\net8.0-windows\HeroQuestUpdated.pdb
+C:\Users\danma\Documents\Portfolio\CS Portfolio\HeroQuestUpdated\HeroQuestUpdated\obj\Debug\net8.0-windows\HeroQuestUpdated.Menu.resources
+C:\Users\danma\Documents\Portfolio\CS Portfolio\HeroQuestUpdated\HeroQuestUpdated\obj\Debug\net8.0-windows\HeroQuestUpdated.csproj.GenerateResource.cache
+C:\Users\danma\Documents\Portfolio\CS Portfolio\HeroQuestUpdated\HeroQuestUpdated\obj\Debug\net8.0-windows\HeroQuestUpdated.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danma\Documents\Portfolio\CS Portfolio\HeroQuestUpdated\HeroQuestUpdated\obj\Debug\net8.0-windows\HeroQuestUpdated.AssemblyInfoInputs.cache
+C:\Users\danma\Documents\Portfolio\CS Portfolio\HeroQuestUpdated\HeroQuestUpdated\obj\Debug\net8.0-windows\HeroQuestUpdated.AssemblyInfo.cs
+C:\Users\danma\Documents\Portfolio\CS Portfolio\HeroQuestUpdated\HeroQuestUpdated\obj\Debug\net8.0-windows\HeroQuestUpdated.csproj.CoreCompileInputs.cache
+C:\Users\danma\Documents\Portfolio\CS Portfolio\HeroQuestUpdated\HeroQuestUpdated\obj\Debug\net8.0-windows\HeroQuestUpdated.dll
+C:\Users\danma\Documents\Portfolio\CS Portfolio\HeroQuestUpdated\HeroQuestUpdated\obj\Debug\net8.0-windows\refint\HeroQuestUpdated.dll
+C:\Users\danma\Documents\Portfolio\CS Portfolio\HeroQuestUpdated\HeroQuestUpdated\obj\Debug\net8.0-windows\HeroQuestUpdated.pdb
+C:\Users\danma\Documents\Portfolio\CS Portfolio\HeroQuestUpdated\HeroQuestUpdated\obj\Debug\net8.0-windows\HeroQuestUpdated.genruntimeconfig.cache
+C:\Users\danma\Documents\Portfolio\CS Portfolio\HeroQuestUpdated\HeroQuestUpdated\obj\Debug\net8.0-windows\ref\HeroQuestUpdated.dll
